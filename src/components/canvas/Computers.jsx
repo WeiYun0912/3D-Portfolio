@@ -42,7 +42,6 @@ const ComputersCanvas = () => {
 
     // Define a callback function to handle changes to the media query
     const handleMediaQueryChange = (event) => {
-      console.log("1");
       setIsMobile(event.matches);
     };
 
