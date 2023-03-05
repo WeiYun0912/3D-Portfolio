@@ -1,0 +1,11 @@
+Model Information:
+* title:	M9 Bayonet (Default)
+* source:	https://sketchfab.com/3d-models/m9-bayonet-default-36593001f0164a50a2039d9ef1e511ff
+* author:	Firewarden (https://sketchfab.com/Firewarden)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "M9 Bayonet (Default)" (https://sketchfab.com/3d-models/m9-bayonet-default-36593001f0164a50a2039d9ef1e511ff) by Firewarden (https://sketchfab.com/Firewarden) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
